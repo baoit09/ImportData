@@ -1,0 +1,66 @@
+﻿<UserControl x:Class="ImportData.Helpers.Control.PagingNavigator.PagingNavigator"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    >
+    <WrapPanel Orientation="Horizontal">
+
+        <StackPanel Name="StackPanel_ItemsPerPage" Visibility="Collapsed" Orientation="Horizontal" VerticalAlignment="Center" >
+            <ComboBox Name="ComboBox_ItemsPerPage" Margin="0,0,8,0" IsEditable="True" MinWidth="50" SelectionChanged="ComboBox_ItemsPerPage_SelectionChanged" VerticalAlignment="Center" SelectedItem="{Binding Path= ., Mode = TwoWay}" x:FieldModifier="public">
+                <ComboBoxItem Content="10"/>
+                <ComboBoxItem Content="20"/>
+                <ComboBoxItem Content="50"/>
+                <ComboBoxItem Content="100"/>
+            </ComboBox>
+            <TextBlock Margin="0,0,8,0" VerticalAlignment="Center">Items/Page</TextBlock>
+        </StackPanel>
+        <ToggleButton Name="ToggleButton_Expaned" Margin="2,0,0,0" Content="%" VerticalAlignment="Center" Width="20" Height="20" ToolTip="Expanded">
+            <ToggleButton.LayoutTransform>
+                <TransformGroup>
+                    <ScaleTransform ScaleX="1" ScaleY="1"/>
+                    <SkewTransform AngleX="0" AngleY="0"/>
+                    <RotateTransform Angle="270"/>
+                    <TranslateTransform X="0" Y="0"/>
+                </TransformGroup>
+            </ToggleButton.LayoutTransform>
+        </ToggleButton>
+
+
+
+        <TextBlock Name="labelPageCount" VerticalAlignment= "Center" Text="1" Margin="2,0,2,0"/>
+        <TextBlock Name="TextBlock_Pages" Margin="0,0,2,0" VerticalAlignment="Center">page(s)</TextBlock>
+        <TextBlock Name="TextBlock_Total_Items" Margin="2,0,8,0" VerticalAlignment="Center"/>
+        <Button Margin="2,0,0,0" MinWidth="26" MinHeight="21"  Width="26" Height="21" Name="buttonRefresh" ToolTip="Refesh">
+            <Button.Content>
+                <Image VerticalAlignment="Stretch" HorizontalAlignment="Stretch" Source="pack://application:,,,/ImportData;component/Resources/Navigator/Refresh.png"/>
+            </Button.Content>
+        </Button>
+        <Button Margin="8,0,0,0" MinWidth="26" MinHeight="21"  Width="26" Height="21" Name="buttonFirst" ToolTip="Go to first page">
+            <Button.Content>
+                <Image VerticalAlignment="Stretch" HorizontalAlignment="Stretch" Source="pack://application:,,,/ImportData;component/Resources/Navigator/First.png"/>
+            </Button.Content>
+        </Button>
+        <Button Margin="2,0,0,0" MinWidth="26" MinHeight="21" Width="26" Height="21" Name="buttonPrevious" ToolTip="Go to previous page">
+            <Button.Content>
+                <Image VerticalAlignment="Stretch" HorizontalAlignment="Stretch" Source="pack://application:,,,/ImportData;component/Resources/Navigator/Pre.png"/>
+            </Button.Content>
+        </Button>
+        <TextBlock Margin="8,0,0,0" Name="textBoxCurrent" VerticalAlignment="Center">Current</TextBlock>
+        <TextBox Margin="2,0,0,0" Name="textBoxCurrentPage" PreviewKeyUp="textBoxCurrentPage_PreviewKeyUp" MinWidth="30" VerticalAlignment="Center" HorizontalContentAlignment="Center" Text="1" AutoWordSelection="False" />
+        <Button Margin="0,0,6,0" MinWidth="26" MinHeight="21"  Width="26" Height="21" Name="buttonGo">
+            <Button.Content>
+                <Image VerticalAlignment="Stretch" HorizontalAlignment="Stretch" Source="pack://application:,,,/ImportData;component/Resources/Navigator/Go.png"/>
+            </Button.Content>
+        </Button>
+        <Button Margin="2,0,0,0" MinWidth="26" MinHeight="21"  Width="26" Height="21" Name="buttonNext" ToolTip="Go to next page">
+            <Button.Content>
+                <Image VerticalAlignment="Stretch" HorizontalAlignment="Stretch" Source="pack://application:,,,/ImportData;component/Resources/Navigator/Next.png"/>
+            </Button.Content>
+        </Button>
+        <Button Margin="2,0,0,0" MinWidth="26" MinHeight="21"  Width="26" Height="21" Name="buttonLast" ToolTip="Go to last page">
+            <Button.Content>
+                <Image VerticalAlignment="Stretch" HorizontalAlignment="Stretch" Source="pack://application:,,,/ImportData;component/Resources/Navigator/Last.png"/>
+            </Button.Content>
+        </Button>
+
+    </WrapPanel>
+</UserControl>

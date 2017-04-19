@@ -1,0 +1,59 @@
+C:\Users\BAOTQ\Desktop\ImportData_v2\ImportData\ImportData\ImportData\bin\Release\ImportData.exe
+C:\Users\BAOTQ\Desktop\ImportData_v2\ImportData\ImportData\ImportData\bin\Release\ImportData.pdb
+C:\Users\BAOTQ\Desktop\ImportData_v2\ImportData\ImportData\ImportData\bin\Release\DataGridFilterLibrary.dll
+C:\Users\BAOTQ\Desktop\ImportData_v2\ImportData\ImportData\ImportData\bin\Release\Microsoft.Office.Interop.Excel.dll
+C:\Users\BAOTQ\Desktop\ImportData_v2\ImportData\ImportData\ImportData\bin\Release\ReuxablesLegacy.dll
+C:\Users\BAOTQ\Desktop\ImportData_v2\ImportData\ImportData\ImportData\bin\Release\WPFToolkit.dll
+C:\Users\BAOTQ\Desktop\ImportData_v2\ImportData\ImportData\ImportData\bin\Release\Xceed.Wpf.Controls.dll
+C:\Users\BAOTQ\Desktop\ImportData_v2\ImportData\ImportData\ImportData\bin\Release\Xceed.Wpf.DataGrid.dll
+C:\Users\BAOTQ\Desktop\ImportData_v2\ImportData\ImportData\ImportData\bin\Release\Microsoft.Office.Interop.Excel.xml
+C:\Users\BAOTQ\Desktop\ImportData_v2\ImportData\ImportData\ImportData\obj\Release\ResolveAssemblyReference.cache
+C:\Users\BAOTQ\Desktop\ImportData_v2\ImportData\ImportData\ImportData\obj\Release\Helpers\Control\PagingNavigator\PagingNavigator.baml
+C:\Users\BAOTQ\Desktop\ImportData_v2\ImportData\ImportData\ImportData\obj\Release\App.baml
+C:\Users\BAOTQ\Desktop\ImportData_v2\ImportData\ImportData\ImportData\obj\Release\Helpers\Control\PagingNavigator\PagingNavigator.g.cs
+C:\Users\BAOTQ\Desktop\ImportData_v2\ImportData\ImportData\ImportData\obj\Release\ImportData.g.cs
+C:\Users\BAOTQ\Desktop\ImportData_v2\ImportData\ImportData\ImportData\obj\Release\PreviewAndImport.g.cs
+C:\Users\BAOTQ\Desktop\ImportData_v2\ImportData\ImportData\ImportData\obj\Release\Helpers\Control\Waiting.g.cs
+C:\Users\BAOTQ\Desktop\ImportData_v2\ImportData\ImportData\ImportData\obj\Release\App.g.cs
+C:\Users\BAOTQ\Desktop\ImportData_v2\ImportData\ImportData\ImportData\obj\Release\GeneratedInternalTypeHelper.g.cs
+C:\Users\BAOTQ\Desktop\ImportData_v2\ImportData\ImportData\ImportData\obj\Release\ImportData_MarkupCompile.cache
+C:\Users\BAOTQ\Desktop\ImportData_v2\ImportData\ImportData\ImportData\obj\Release\ImportData_MarkupCompile.lref
+C:\Users\BAOTQ\Desktop\ImportData_v2\ImportData\ImportData\ImportData\obj\Release\ImportData.baml
+C:\Users\BAOTQ\Desktop\ImportData_v2\ImportData\ImportData\ImportData\obj\Release\PreviewAndImport.baml
+C:\Users\BAOTQ\Desktop\ImportData_v2\ImportData\ImportData\ImportData\obj\Release\Helpers\Control\Waiting.baml
+C:\Users\BAOTQ\Desktop\ImportData_v2\ImportData\ImportData\ImportData\obj\Release\ImportData.g.resources
+C:\Users\BAOTQ\Desktop\ImportData_v2\ImportData\ImportData\ImportData\obj\Release\ImportData.Properties.Resources.resources
+C:\Users\BAOTQ\Desktop\ImportData_v2\ImportData\ImportData\ImportData\obj\Release\ImportData.csproj.GenerateResource.Cache
+C:\Users\BAOTQ\Desktop\ImportData_v2\ImportData\ImportData\ImportData\obj\Release\ImportData.exe
+C:\Users\BAOTQ\Desktop\ImportData_v2\ImportData\ImportData\ImportData\obj\Release\ImportData.pdb
+D:\Projects Demo\ImportData_v2\ImportData\ImportData\ImportData\obj\Release\ImportData.exe
+D:\Projects Demo\ImportData_v2\ImportData\ImportData\ImportData\obj\Release\ImportData.pdb
+D:\Projects Demo\ImportData_v2\ImportData\ImportData\ImportData\bin\Release\ImportData.exe
+D:\Projects Demo\ImportData_v2\ImportData\ImportData\ImportData\bin\Release\ImportData.pdb
+D:\Projects Demo\ImportData_v2\ImportData\ImportData\ImportData\bin\Release\DataGridFilterLibrary.dll
+D:\Projects Demo\ImportData_v2\ImportData\ImportData\ImportData\bin\Release\Microsoft.Office.Interop.Excel.dll
+D:\Projects Demo\ImportData_v2\ImportData\ImportData\ImportData\bin\Release\ReuxablesLegacy.dll
+D:\Projects Demo\ImportData_v2\ImportData\ImportData\ImportData\bin\Release\WPFToolkit.dll
+D:\Projects Demo\ImportData_v2\ImportData\ImportData\ImportData\bin\Release\Xceed.Wpf.Controls.dll
+D:\Projects Demo\ImportData_v2\ImportData\ImportData\ImportData\bin\Release\Xceed.Wpf.DataGrid.dll
+D:\Projects Demo\ImportData_v2\ImportData\ImportData\ImportData\bin\Release\office.dll
+D:\Projects Demo\ImportData_v2\ImportData\ImportData\ImportData\bin\Release\Microsoft.Vbe.Interop.dll
+D:\Projects Demo\ImportData_v2\ImportData\ImportData\ImportData\bin\Release\office.xml
+D:\Projects Demo\ImportData_v2\ImportData\ImportData\ImportData\bin\Release\Microsoft.Office.Interop.Excel.xml
+D:\Projects Demo\ImportData_v2\ImportData\ImportData\ImportData\obj\Release\ResolveAssemblyReference.cache
+D:\Projects Demo\ImportData_v2\ImportData\ImportData\ImportData\obj\Release\Helpers\Control\PagingNavigator\PagingNavigator.baml
+D:\Projects Demo\ImportData_v2\ImportData\ImportData\ImportData\obj\Release\App.baml
+D:\Projects Demo\ImportData_v2\ImportData\ImportData\ImportData\obj\Release\Helpers\Control\PagingNavigator\PagingNavigator.g.cs
+D:\Projects Demo\ImportData_v2\ImportData\ImportData\ImportData\obj\Release\ImportData.g.cs
+D:\Projects Demo\ImportData_v2\ImportData\ImportData\ImportData\obj\Release\PreviewAndImport.g.cs
+D:\Projects Demo\ImportData_v2\ImportData\ImportData\ImportData\obj\Release\Helpers\Control\Waiting.g.cs
+D:\Projects Demo\ImportData_v2\ImportData\ImportData\ImportData\obj\Release\App.g.cs
+D:\Projects Demo\ImportData_v2\ImportData\ImportData\ImportData\obj\Release\GeneratedInternalTypeHelper.g.cs
+D:\Projects Demo\ImportData_v2\ImportData\ImportData\ImportData\obj\Release\ImportData_MarkupCompile.cache
+D:\Projects Demo\ImportData_v2\ImportData\ImportData\ImportData\obj\Release\ImportData_MarkupCompile.lref
+D:\Projects Demo\ImportData_v2\ImportData\ImportData\ImportData\obj\Release\ImportData.baml
+D:\Projects Demo\ImportData_v2\ImportData\ImportData\ImportData\obj\Release\PreviewAndImport.baml
+D:\Projects Demo\ImportData_v2\ImportData\ImportData\ImportData\obj\Release\Helpers\Control\Waiting.baml
+D:\Projects Demo\ImportData_v2\ImportData\ImportData\ImportData\obj\Release\ImportData.g.resources
+D:\Projects Demo\ImportData_v2\ImportData\ImportData\ImportData\obj\Release\ImportData.Properties.Resources.resources
+D:\Projects Demo\ImportData_v2\ImportData\ImportData\ImportData\obj\Release\ImportData.csproj.GenerateResource.Cache

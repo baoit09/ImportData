@@ -1,0 +1,12 @@
+﻿<Window x:Class="ImportData.Waiting"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:Local="clr-namespace:ImportData.Helpers"
+    Title="Waiting" Height="300" Width="300" WindowStyle="None" WindowStartupLocation="CenterScreen" BorderThickness="0"
+    ResizeMode="NoResize" AllowsTransparency="True" Background="Transparent" >
+    <Grid Opacity="0.3">
+        <!--<MediaElement LoadedBehavior="Play" ToolTip="Loading..." Canvas.Top="50" UnloadedBehavior="Play" Source="pack://application:,,,/ImportData;component/Resources/Images/loading-gif-animation.gif" />-->
+        
+        <Image Local:ImageBehavior.AnimatedSource="pack://application:,,,/ImportData;component/Resources/Images/loading-gif-animation.gif" Stretch="None" />
+    </Grid>
+</Window>
